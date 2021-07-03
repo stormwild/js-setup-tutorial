@@ -108,3 +108,13 @@ npm install nodemon --save-dev
 > 
 > When checking if a file exists, the most commonly used FILE operators are `-e` and `-f`. The first one will check whether a file exists regardless of the type, while the second one will return true only if the FILE is a regular file (not a directory or a device).
 
+https://www.robinwieruch.de/webpack-setup-tutorial
+
+https://www.robinwieruch.de/webpack-babel-setup-tutorial
+
+https://www.robinwieruch.de/webpack-css
+
+https://www.robinwieruch.de/webpack-sass
+
+https://www.robinwieruch.de/webpack-postcss
+
