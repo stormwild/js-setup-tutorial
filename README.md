@@ -43,7 +43,7 @@ In `package.json` add the ff:
 
 ```json
 {
-    "scripts": {
+  "scripts": {
     "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
