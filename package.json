@@ -4,10 +4,13 @@
   "description": "Tutorial on how to set up a JavaScript project.",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Alexander R. Torrijos <artorrijos@gmail.com> (https://stormwild.github.io/)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
 }

@@ -67,6 +67,31 @@ $ npm start
 Hello Project
 ```
 
+## The minimal Node.js with Babel Setup
+
+[The minimal Node.js with Babel Setup](https://www.robinwieruch.de/minimal-node-js-babel-setup)
+
+### Node.js with Nodemon
+
+```sh
+npm install nodemon --save-dev
+```
+
+```json
+{
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+}
+```
+
+### Node.js with Babel
+
+### Environment Variables in Node.js
+
 ## References
 
 [How to Check if a File or Directory Exists in Bash](https://linuxize.com/post/bash-check-if-file-exists/)
